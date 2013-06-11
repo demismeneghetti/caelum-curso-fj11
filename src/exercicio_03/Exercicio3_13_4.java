@@ -1,6 +1,6 @@
 package exercicio_03;
 
-class Fatorial{
+class Exercicio3_13_4{
 
 	public static void main (String[] args){
 
