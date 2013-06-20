@@ -1,4 +1,4 @@
-caelum-curso-fj11-teste-io
-==========================
+caelum-curso-fj11
+=================
 
-Formação JAVA - FJ11 - Módulo I - Exercício
+Formação JAVA - FJ11 - Módulo I
